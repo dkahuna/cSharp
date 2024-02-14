@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using static System.Console;
 
 namespace HelloWorld
@@ -7,10 +7,12 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            WriteLine("Hello Onedur");
+            WriteLine("Hello Onedur!");
+            Console.ReadLine();
         }
     }
 }
+
 
 // This is not a line of code but a comment
 
